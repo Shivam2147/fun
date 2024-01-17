@@ -23,7 +23,7 @@ main {
     position: absolute;
     transition: all 2s ease;
     border-radius: 10px;
-    opacity: .5;
+    opacity: .8;
     -webkit-box-shadow: 2px 5px 21px -5px rgba(0, 0, 0, 0.82);
     -moz-box-shadow: 2px 5px 21px -5px rgba(0, 0, 0, 0.82);
     box-shadow: 2px 5px 21px -5px rgba(0, 0, 0, 0.82);
